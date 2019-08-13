@@ -2,7 +2,7 @@
 ##### Lex Liu
 ###### 2019 Summer Internship
 ###### Real Estate Data + Insights
-
+![Image of Hudson](rsc/hud.png)
 ## WEB 101: Intro to Web Dev
 ### Setting up your machine
 #### Clone EMEA REC Submission Portal Repo
